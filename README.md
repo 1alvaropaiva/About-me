@@ -3,7 +3,7 @@
 
 ![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=1alvaropaiva&show_icons=true&theme=dracula)
 
-### Tecnologias que eu mais uso
+### Tecnologias que eu mais uso:
 
 <div style="display: inline block"><br/>
     <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
